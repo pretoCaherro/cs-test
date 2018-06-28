@@ -1,1 +1,7 @@
 D:\ITP\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\atttzhh1\Downloads\cs-test-master\cs-test-master\testApp\testApp\obj\Debug\testApp.pdb
